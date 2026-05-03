@@ -21,8 +21,7 @@ Imagine being able to clone a voice, narrate an entire audiobook, or build a ful
 
 In this review, we break down everything you need to know — features, pricing, real-world performance, and whether it's the right tool for your workflow in 2026.
 
-[![Try ElevenLabs Free — No Credit Card Required](https://img.shields.io/badge/Try%20ElevenLabs%20Free-FF6B35?style=for-the-badge&logo=data:image/png;base64,)](https://elevenlabs.io?via=YOUR_AFFILIATE_ID){:target="_blank" rel="nofollow sponsored"}
-
+[![Try ElevenLabs Free — No Credit Card Required](https://img.shields.io/badge/Try%20ElevenLabs%20Free-FF6B35?style=for-the-badge)](https://try.elevenlabs.io/g08bxf50efc5){:target="_blank" rel="nofollow sponsored"}
 ---
 
 ![ElevenLabs Dashboard Overview](/assets/img/posts/elevenlabs-dashboard.jpg)
