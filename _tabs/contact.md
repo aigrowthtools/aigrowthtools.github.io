@@ -5,7 +5,6 @@ icon: fas fa-envelope
 order: 4
 ---
 
-
 ## Get in Touch 📬
 
 Thank you for visiting **AI Growth Tools**! We genuinely value hearing from our readers — whether you have a question about a review, want to suggest a tool, have feedback on an article, or are interested in working together.
@@ -58,19 +57,33 @@ If you believe content on our website infringes your copyright, please refer to 
 
 ---
 
-## How to Write Your Email
+## Send Us a Message ✉️
 
-To help us respond quickly and accurately, please include the following in your message:
+To help us respond quickly and accurately, please fill out the form below. The more detail you provide, the faster we can help you.
 
-```
-Subject: [Topic — e.g., Tool Review Request / Guest Post / Feedback]
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <div style="margin-bottom: 15px;">
+    <label for="name" style="display:block; margin-bottom: 5px; font-weight: bold;">Your Name</label>
+    <input type="text" id="name" name="name" required placeholder="e.g. Rahul Sharma" style="width: 100%; padding: 12px; border: 1px solid #555; border-radius: 6px; background: transparent; color: inherit; font-family: inherit;">
+  </div>
+  
+  <div style="margin-bottom: 15px;">
+    <label for="email" style="display:block; margin-bottom: 5px; font-weight: bold;">Email Address</label>
+    <input type="email" id="email" name="_replyto" required placeholder="your@email.com" style="width: 100%; padding: 12px; border: 1px solid #555; border-radius: 6px; background: transparent; color: inherit; font-family: inherit;">
+  </div>
 
-Name: Your full name
-Website (if applicable): Your website URL
-Message: Your question, request, or feedback in detail
-```
+  <div style="margin-bottom: 15px;">
+    <label for="subject" style="display:block; margin-bottom: 5px; font-weight: bold;">Subject</label>
+    <input type="text" id="subject" name="subject" placeholder="What is this regarding?" style="width: 100%; padding: 12px; border: 1px solid #555; border-radius: 6px; background: transparent; color: inherit; font-family: inherit;">
+  </div>
 
-The more detail you provide, the faster and more accurately we can help you.
+  <div style="margin-bottom: 20px;">
+    <label for="message" style="display:block; margin-bottom: 5px; font-weight: bold;">Your Message</label>
+    <textarea id="message" name="message" rows="5" required placeholder="Describe your question, request, or feedback in detail..." style="width: 100%; padding: 12px; border: 1px solid #555; border-radius: 6px; background: transparent; color: inherit; font-family: inherit; resize: vertical;"></textarea>
+  </div>
+
+  <button type="submit" style="padding: 12px 24px; background-color: #2ea44f; color: white; border: none; border-radius: 6px; font-size: 16px; font-weight: bold; cursor: pointer;">Send Message</button>
+</form>
 
 ---
 
