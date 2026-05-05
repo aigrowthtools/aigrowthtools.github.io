@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Privacy Policy
-order: 6
+icon: fas fa-user-shield
+order: 2
 ---
 
 *Last Updated: May 2026*
