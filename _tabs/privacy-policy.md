@@ -97,8 +97,8 @@ Google AdSense and its advertising partners use cookies and web beacons to serve
 **How to opt out of personalized advertising:**
  
 - [Google Ads Settings](https://adssettings.google.com/){:target="_blank" rel="nofollow"} — manage your ad personalization preferences
-- [Network Advertising Initiative Opt-out](http://www.networkadvertising.org/choices/){:target="_blank" rel="nofollow"} — opt out of participating networks
-- [Digital Advertising Alliance Opt-out](http://www.aboutads.info/choices/){:target="_blank" rel="nofollow"}
+- [Network Advertising Initiative Opt-out](https://www.networkadvertising.org/choices/){:target="_blank" rel="nofollow"} — opt out of participating networks
+- [Digital Advertising Alliance Opt-out](https://www.aboutads.info/choices/){:target="_blank" rel="nofollow"}
 For full details on how Google uses data from partner sites, visit:
 [How Google uses data when you use our partners' sites or apps](https://policies.google.com/technologies/partner-sites){:target="_blank" rel="nofollow"}
  
@@ -241,4 +241,3 @@ We aim to respond to all privacy-related inquiries within **7 business days**.
 ---
  
 *AI Growth Tools — Committed to your privacy and your trust.*
- 
