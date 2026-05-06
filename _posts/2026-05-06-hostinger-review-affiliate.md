@@ -29,7 +29,7 @@ In this comprehensive review, I've tested Hostinger across **speed, uptime, feat
 
 ---
 
-![Hostinger hPanel Dashboard](/assets/img/posts/hostinger-hpanel-dashboard.jpg)
+
 _Hostinger's custom hPanel — one of the cleanest, most beginner-friendly dashboards in the hosting industry._
 
 ---
@@ -104,7 +104,7 @@ Hostinger ditched cPanel and built their own control panel called **hPanel**. It
 
 ---
 
-![Hostinger Speed Test Results 2026](/assets/img/posts/hostinger-speed-test-2026.jpg)
+
 _Real speed test results: Hostinger Business Plan recorded 31ms load handling time and 99.99% uptime in Q4 2025._
 
 ---
@@ -171,7 +171,7 @@ After weeks of testing and research, here's a balanced, honest breakdown:
 
 ---
 
-![Hostinger Pricing Plans 2026](/assets/img/posts/hostinger-pricing-plans-2026.jpg)
+
 _Hostinger's six hosting tiers clearly laid out — from beginner-friendly to enterprise-scale._
 
 ---
@@ -254,7 +254,7 @@ What makes Hostinger particularly strong for WordPress:
 
 ---
 
-![Hostinger WordPress One-Click Install](/assets/img/posts/hostinger-wordpress-install.jpg)
+
 _WordPress installs in under 2 minutes on Hostinger — no technical knowledge required._
 
 ---
