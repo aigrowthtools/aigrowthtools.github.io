@@ -6,7 +6,8 @@ tags: [hostinger, web-hosting, wordpress-hosting, vps, review, blogging]
 description: "In-depth Hostinger review 2026 — real speed tests, pricing breakdown, pros & cons. Find out if this is the best web hosting for your website."
 image:
   path: /assets/img/posts/hostinger-review-2026.jpg
-  alt: Hostinger Web Hosting Review 2026 — Is It Worth It?
+  lqip: /assets/img/posts/hostinger-review-2026.jpg
+  alt: Hostinger Web Hosting Review 2026
 ---
 
 > ⚠️ **Affiliate Disclosure:** This post contains affiliate links. If you sign up through my link, I earn a small commission at no extra cost to you. I only recommend tools I genuinely believe in and have personally evaluated. [Learn more](#).
