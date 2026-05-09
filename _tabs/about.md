@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Welcome to AI Growth Tools 👋
+## Welcome to AI Tool Growth 👋
 
-**AI Growth Tools** is a dedicated platform built for bloggers, freelancers, and business owners who want to grow using the power of artificial intelligence.
+**AI Tool Growth** is a dedicated platform built for bloggers, freelancers, and business owners who want to grow using the power of artificial intelligence.
 
 We publish **honest reviews, step-by-step tutorials, and real-world growth strategies** for the best AI tools available in 2026. No fluff. No sponsored bias. Just genuine, tested recommendations.
 
@@ -34,7 +34,7 @@ When we first started exploring AI tools, we ran into the same problem repeatedl
 
 We wanted a resource that treated readers like intelligent adults — one that gave real test data, acknowledged real limitations, and helped people make decisions that actually fit their needs and budget.
 
-That is why **AI Growth Tools** exists.
+That is why **AI Tool Growth** exists.
 
 ---
 
@@ -58,11 +58,11 @@ We are affiliates of platforms including Hostinger, Bluehost, ElevenLabs, Canva,
 
 ## Meet the Blog
 
-**AI Growth Tools** is an independent blog focused on one goal: helping you grow smarter using AI.
+**AI Tool Growth** is an independent blog focused on one goal: helping you grow smarter using AI.
 
 - 📍 Based in India
 - 🌐 Publishing since 2026
-- 📧 Contact: [karnaray790@gmail.com](mailto:karnaray790@gmail.com)
+- 📧 Contact: [karnaray790@gmail.com](mailto:aitoolgrowth@gmail.com)
 
 ---
 
@@ -70,7 +70,7 @@ We are affiliates of platforms including Hostinger, Bluehost, ElevenLabs, Canva,
 
 Have a question, feedback, or a tool you want us to review?
 
-📧 **Email us:** [karnaray790@gmail.com](mailto:karnaray790@gmail.com)
+📧 **Email us:** [aitoolgrowth@gmail.com](mailto:aitoolgrowth@gmail.com)
 
 We read every email and respond within **24 to 48 hours** on weekdays.
 
