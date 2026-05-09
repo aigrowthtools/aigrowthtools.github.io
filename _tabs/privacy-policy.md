@@ -9,7 +9,7 @@ order: 2
  
 ---
  
-## Privacy Policy — AI Growth Tools
+## Privacy Policy — AI Tool Growth
  
 At **AI Growth Tools** ("we", "our", "us", "website"), your privacy is a priority. This Privacy Policy explains what information we collect when you visit our website, how we use it, and how we protect it.
  
@@ -19,7 +19,7 @@ By using this website, you agree to the terms of this Privacy Policy. If you do 
  
 ## 1. About This Website
  
-**AI Growth Tools** is an informational blog that publishes reviews, tutorials, and recommendations for AI tools and digital software. Some posts contain **affiliate links**, which we clearly disclose at the top of each relevant article. We earn a commission when a reader purchases through an affiliate link, at no additional cost to the reader.
+**AI Tool Growth** is an informational blog that publishes reviews, tutorials, and recommendations for AI tools and digital software. Some posts contain **affiliate links**, which we clearly disclose at the top of each relevant article. We earn a commission when a reader purchases through an affiliate link, at no additional cost to the reader.
  
 ---
  
@@ -42,7 +42,7 @@ This data is not personally identifiable and is used solely for analytics and se
  
 ### B) Cookies
  
-**AI Growth Tools** uses cookies — small text files stored in your browser — to improve your experience on our site.
+**AI Tool Growth** uses cookies — small text files stored in your browser — to improve your experience on our site.
  
 **Types of cookies we use:**
  
@@ -118,7 +118,7 @@ We only recommend products and services we have personally evaluated and genuine
  
 ### F) Email Communication
  
-When you contact us by email at karnaray790@gmail.com, we collect:
+When you contact us by email at aitoolgrowth@gmail.com, we collect:
  
 - Your email address
 - Your name (if provided)
@@ -176,9 +176,9 @@ Please note that no method of data transmission over the internet is 100% secure
  
 ## 7. Children's Privacy — COPPA Compliance
  
-**AI Growth Tools** does not knowingly collect personal information from children under the age of 13.
+**AI Tool Growth** does not knowingly collect personal information from children under the age of 13.
  
-If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately at **karnaray790@gmail.com**. We will take prompt action to delete such information from our records.
+If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately at **aitoolgrowth@gmail.com**. We will take prompt action to delete such information from our records.
  
 ---
  
@@ -192,7 +192,7 @@ If you are located in the European Union or European Economic Area, you have the
 - **Right to Restrict Processing** — Request that we limit how we use your data
 - **Right to Data Portability** — Request a copy of your data in a portable format
 - **Right to Object** — Object to our processing of your data
-To exercise any of these rights, please contact us at: **karnaray790@gmail.com**
+To exercise any of these rights, please contact us at: **aitoolgrowth@gmail.com**
  
 We will respond to your request within 30 days.
  
@@ -206,7 +206,7 @@ If you are a California resident, you have the right to:
 - Request deletion of your personal information
 - Opt out of the sale of your personal information (we do not sell personal data)
 - Not be discriminated against for exercising your privacy rights
-To make a CCPA request, contact us at: **karnaray790@gmail.com**
+To make a CCPA request, contact us at: **aitoolgrowth@gmail.com**
  
 ---
  
@@ -233,11 +233,11 @@ We recommend reviewing this page periodically to stay informed.
  
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
  
-📧 **Email:** [karnaray790@gmail.com](mailto:karnaray790@gmail.com)
-🌐 **Website:** [AI Growth Tools](/)
+📧 **Email:** [aitoolgrowth@gmail.com](mailto:aitoolgrowth@gmail.com)
+🌐 **Website:** [AI Tool Growth](/)
  
 We aim to respond to all privacy-related inquiries within **7 business days**.
  
 ---
  
-*AI Growth Tools — Committed to your privacy and your trust.*
+*AI Tool Growth — Committed to your privacy and your trust.*
