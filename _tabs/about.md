@@ -62,7 +62,7 @@ We are affiliates of platforms including Hostinger, Bluehost, ElevenLabs, Canva,
 
 - 📍 Based in India
 - 🌐 Publishing since 2026
-- 📧 Contact: [karnaray790@gmail.com](mailto:aitoolgrowth@gmail.com)
+- 📧 Contact: [aitoolgrowth.com](mailto:aitoolgrowth@gmail.com)
 
 ---
 
@@ -76,4 +76,4 @@ We read every email and respond within **24 to 48 hours** on weekdays.
 
 ---
 
-*AI Growth Tools — Helping you grow smarter, one tool at a time.* 🚀
+*AI Tool Growth — Helping you grow smarter, one tool at a time.* 🚀
