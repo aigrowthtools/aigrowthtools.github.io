@@ -10,9 +10,9 @@ order: 3
 
 ---
 
-## Terms and Conditions — AI Growth Tools
+## Terms and Conditions — AI Tool Growth 
 
-Welcome to **AI Growth Tools**. These Terms and Conditions ("Terms") govern your access to and use of our website located at this domain and all associated content, pages, and features.
+Welcome to **AI Tool Growth**. These Terms and Conditions ("Terms") govern your access to and use of our website located at this domain and all associated content, pages, and features.
 
 By accessing or using this website, you confirm that you have read, understood, and agree to be legally bound by these Terms. If you do not agree with any part of these Terms, you must discontinue use of this website immediately.
 
@@ -20,7 +20,7 @@ By accessing or using this website, you confirm that you have read, understood, 
 
 ## 1. About the Website
 
-**AI Growth Tools** is an independent informational blog that publishes:
+**AI Tool Growth** is an independent informational blog that publishes:
 
 - Reviews and evaluations of AI tools and software
 - Step-by-step tutorials and how-to guides
@@ -36,7 +36,7 @@ The website is operated by an independent blogger based in India.
 
 ### 2.1 Ownership of Content
 
-All original content published on **AI Growth Tools** — including but not limited to articles, blog posts, images, graphics, comparison tables, charts, and website design — is the intellectual property of AI Growth Tools and is protected under applicable copyright laws, including the Indian Copyright Act, 1957.
+All original content published on **AI Tool Growth** — including but not limited to articles, blog posts, images, graphics, comparison tables, charts, and website design — is the intellectual property of AI tool Growth and is protected under applicable copyright laws, including the Indian Copyright Act, 1957.
 
 ### 2.2 Permitted Use
 
@@ -73,7 +73,7 @@ Copyright violations will result in:
 
 ### 3.1 Affiliate Partnerships
 
-**AI Growth Tools** participates in affiliate programs including but not limited to programs operated by Hostinger, Bluehost, ElevenLabs, Canva, Grammarly, Jasper AI, SEMrush, Surfer SEO, QuillBot, and other digital tool companies.
+**AI Tool Growth** participates in affiliate programs including but not limited to programs operated by Hostinger, Bluehost, ElevenLabs, Canva, Grammarly, Jasper AI, SEMrush, Surfer SEO, QuillBot, and other digital tool companies.
 
 ### 3.2 How Affiliate Links Work
 
@@ -198,7 +198,7 @@ You agree to indemnify, defend, and hold harmless **AI Growth Tools**, its opera
 
 We respect the intellectual property rights of others and expect the same in return. If you believe that content published on this website infringes your copyright, please send a formal DMCA notice to:
 
-📧 **karnaray790@gmail.com**
+📧 **aitoolgrowth@gmail.com**
 
 Your DMCA notice must include:
 
@@ -253,8 +253,8 @@ We recommend reviewing this page periodically.
 
 If you have any questions about these Terms and Conditions, please contact us:
 
-📧 **Email:** [karnaray790@gmail.com](mailto:karnaray790@gmail.com)
-🌐 **Website:** [AI Growth Tools](/)
+📧 **Email:** [karnaray790@gmail.com](mailto:aitoolgrowth@gmail.com)
+🌐 **Website:** [AI Tool Growth](/)
 
 We will respond to all inquiries within **5 to 7 business days**.
 
