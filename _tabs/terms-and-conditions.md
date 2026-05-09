@@ -253,7 +253,7 @@ We recommend reviewing this page periodically.
 
 If you have any questions about these Terms and Conditions, please contact us:
 
-📧 **Email:** [karnaray790@gmail.com](mailto:aitoolgrowth@gmail.com)
+📧 **Email:** [aitoolgrowth@gmail.com](mailto:aitoolgrowth@gmail.com)
 🌐 **Website:** [AI Tool Growth](/)
 
 We will respond to all inquiries within **5 to 7 business days**.
