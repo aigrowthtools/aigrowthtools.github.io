@@ -7,7 +7,7 @@ order: 4
 
 ## Get in Touch 📬
 
-Thank you for visiting **AI Growth Tools**! We genuinely value hearing from our readers — whether you have a question about a review, want to suggest a tool, have feedback on an article, or are interested in working together.
+Thank you for visiting **AI Tool Growth**! We genuinely value hearing from our readers — whether you have a question about a review, want to suggest a tool, have feedback on an article, or are interested in working together.
 
 We are a small, independent blog and we read every single message personally.
 
@@ -17,7 +17,7 @@ We are a small, independent blog and we read every single message personally.
 
 The best and fastest way to reach us:
 
-**[karnaray790@gmail.com](mailto:karnaray790@gmail.com)**
+**[aitoolgrowth@gmail.com](mailto:aitoolgrowth@gmail.com)**
 
 **Response time:** We reply to all emails within **24 to 48 hours** on business days (Monday through Friday). Weekend emails are answered on Monday.
 
@@ -53,7 +53,7 @@ If you are reaching out about a sponsored post, paid review, or affiliate collab
 Please note: we only promote tools and services we believe are genuinely valuable to our readers. We do not publish sponsored content that conflicts with our editorial standards.
 
 ### 📋 DMCA and Copyright Issues
-If you believe content on our website infringes your copyright, please refer to our [Terms and Conditions](/terms-and-conditions/) for the full DMCA notice procedure, then send your notice to **karnaray790@gmail.com**.
+If you believe content on our website infringes your copyright, please refer to our [Terms and Conditions](/terms-and-conditions/) for the full DMCA notice procedure, then send your notice to **aitoolgrowth@gmail.com**.
 
 ---
 
@@ -121,8 +121,8 @@ We do not currently offer consulting services. All of our guidance is published 
 
 Social media channels are coming soon. In the meantime, email is the best way to reach us directly.
 
-📧 **karnaray790@gmail.com**
+📧 **aitoolgrowth.com**
 
 ---
 
-*AI Growth Tools — Here to help you grow, one tool at a time.* 🚀
+*AI Tool Growth — Here to help you grow, one tool at a time.* 🚀
