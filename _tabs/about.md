@@ -62,7 +62,7 @@ We are affiliates of platforms including Hostinger, Bluehost, ElevenLabs, Canva,
 
 - 📍 Based in India
 - 🌐 Publishing since 2026
-- 📧 Contact: [aitoolgrowth.com](mailto:aitoolgrowth@gmail.com)
+- 📧 Contact: [aitoolgrowth@gmail.com](mailto:aitoolgrowth@gmail.com)
 
 ---
 
