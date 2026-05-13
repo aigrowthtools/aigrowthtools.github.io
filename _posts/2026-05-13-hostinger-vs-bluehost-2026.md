@@ -1,6 +1,6 @@
 ---
 title: "Hostinger vs Bluehost 2026: Which Web Host Is Actually Worth Your Money?"
-date: 2026-05-13 10:00:00 +0530
+date: 2026-05-13
 categories: [Comparisons, Web Hosting]
 tags: [hostinger, bluehost, web-hosting, wordpress, comparison, review]
 description: "Hostinger vs Bluehost 2026 — real speed tests, pricing, features compared side by side. Find out which hosting is best for YOUR website today."
