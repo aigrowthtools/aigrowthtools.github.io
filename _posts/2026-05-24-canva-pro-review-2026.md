@@ -1,6 +1,6 @@
 ---
 title: "Canva Pro Review 2026: Is It Worth $15/Month? (Honest Deep Dive)"
-date: 2026-05-24 
+date: 2026-05-24 13:30:00 +0530
 categories: [Reviews, AI Tools]
 tags: [canva, canva-pro, graphic-design, ai-tools, review, content-creation, blogging]
 description: "Honest Canva Pro review 2026 — Magic Studio AI, pricing, pros & cons, real tests. Find out if Canva Pro is worth it for bloggers, creators & businesses."
