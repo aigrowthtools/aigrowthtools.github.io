@@ -69,6 +69,9 @@ Canva Pro is specifically built for these types of users:
 
 ### 🤖 Magic Studio — The AI Suite That Changes Everything
 
+![Canva Magic Studio AI Features](/assets/img/posts/canva-pro-magic-studio.jpg)
+*Canva Magic Studio brings powerful AI features directly into your design workspace.*
+
 Magic Studio is Canva's suite of AI-powered tools, and in 2026, it has become genuinely transformative. Canva Pro gives you full access to the entire Magic Studio suite — the free plan only provides limited credits.
 
 Here's what each tool does and why it matters:
@@ -84,6 +87,10 @@ Type a prompt, get a high-quality AI-generated image or short video clip — dir
 The output quality is excellent for social media content, blog featured images, and marketing materials. For ultra-realistic or highly technical images, you'd still want Midjourney — but for 90% of everyday creative needs, Magic Media produces results that genuinely impress.
 
 #### ✂️ Background Remover — One Click, Photoshop-Quality Results
+
+![Canva Pro One Click Background Removal](/assets/img/posts/canva-pro-background-remover.jpg)
+*Canva Pro's background remover cuts out complex objects and hair with just one click.*
+
 This is the single feature that most Canva Pro users mention first when asked why they upgraded. Upload any photo — a product shot, a headshot, a logo scan — and the background is removed in one click with AI precision. 
 
 In my testing, it produced clean cutouts on over 90% of images without any manual refinement, including complex edges like hair, transparent objects, and detailed outlines. A dedicated tool like Remove.bg charges $0.20 per image. Canva Pro gives you unlimited background removals as part of the subscription. For anyone doing product photography, blog imagery, or social media content, this alone covers the subscription cost within a few weeks.
