@@ -32,7 +32,7 @@ In this detailed review, I've tested every major feature of Canva Pro — the Ma
 
 ---
 
-![Canva Pro Visual Suite Dashboard](/assets/img/posts/canva-pro-dashboard.jpg)
+![Canva Pro Visual Suite Dashboard](/assets/img/posts/canva-pro-dashboard-2026.jpg)
 *Canva Pro's redesigned Visual Suite 2.0 dashboard — everything a creator needs in one unified workspace.*
 
 ---
@@ -212,7 +212,7 @@ I used Canva Pro across 30 days of real content creation tasks. Here's what I fo
 | **Pro** | $15/mo | $120/year (~$10/mo) | Creators, bloggers, freelancers |
 | **Teams** | $10/user/mo | Min. $30/mo (3 users) | Agencies, small teams |
 
-Choosing annual billing saves you approximately $60 per year (~33% discount). At $10/month on the annual plan, Canva Pro replaces standalone photoshop tools, background movers, buffer schedulers, and stock photo accounts simultaneously.
+Choosing annual billing saves you approximately $60 per year (~33% discount). At $10/month on the annual plan, Canva Pro replaces standalone photoshop tools, background removers, buffer schedulers, and stock photo accounts simultaneously.
 
 <div style="text-align: center;">
   <a href="https://www.canva.com/" target="_blank" rel="nofollow sponsored" style="display: inline-block; background-color: #8B3DFF; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">👉 Get Canva Pro — Save 33% on Annual Plan</a>
