@@ -129,17 +129,20 @@ Grammarly does offer AI rewriting suggestions, but they're limited to sentence-l
 
 ## Round 3: Unique Features Nobody Else Has
 
+### Grammarly's Exclusive Features
+
+![Grammarly Tone Detection](/assets/img/posts/grammarly-tone-detection.jpg)
+*Grammarly's tone detector — a unique feature that tells you exactly how your writing sounds to readers.*
+
+* 🎯 **Tone Detection:** Grammarly can analyze your writing and tell you if it sounds "confident," "friendly," "diplomatic," or "aggressive" — with suggestions to adjust accordingly. No other tool does this well.
+* 🔄 **Works Everywhere:** Grammarly's browser extension works silently across Gmail, Google Docs, Word, Slack, and over 500,000 other platforms.
+* 📱 **Mobile Keyboard:** A fully functional mobile keyboard for iOS and Android that checks grammar as you type on your phone.
+
 ### QuillBot's Massive 2026 Workspace Update 🆕
-In May 2026, QuillBot completely rebranded. They ditched their old look for a sleek, modern green aesthetic and a simplified logo. More importantly, they evolved into a full **"Creativity Platform."** 
-* 🎨 **AI Design & Image Generator:** QuillBot now lets you generate logos, posters, social media graphics, and custom images directly in your workspace. You write the text, and their new AI helps you design the visual assets to match!
+In May 2026, QuillBot completely rebranded. They ditched their old look for a sleek, modern green aesthetic and a simplified logo. More importantly, they evolved into a full **"Creativity Platform."** * 🎨 **AI Design & Image Generator:** QuillBot now lets you generate logos, posters, social media graphics, and custom images directly in your workspace. You write the text, and their new AI helps you design the visual assets to match!
 * 📚 **Citation Generator:** QuillBot supports 1,000+ citation styles. It can generate complete bibliographies from a URL, DOI, or book title. Essential for students.
 * 🌍 **Translator (50+ Languages):** QuillBot translates content across more than 50 languages.
 * 📝 **Summarizer:** Takes a long article and condenses it into a clean summary.
-
-### Grammarly's Exclusive Features
-* 🎯 **Tone Detection:** Grammarly can analyze your writing and tell you if it sounds "confident," "friendly," "diplomatic," or "aggressive" — with suggestions to adjust accordingly. No other tool does this well.
-* 🔄 **Works Everywhere:** Grammarly's browser extension works silently across Gmail, Google Docs, Word, Slack, and over 500,000 other platforms.
-* 📱 **Mobile Keyboard:** A fully functional mobile keyboard for iOS and Android that checks grammar as you type.
 
 ---
 
@@ -159,7 +162,6 @@ In May 2026, QuillBot completely rebranded. They ditched their old look for a sl
 * ❌ 125-word paraphrase limit is frustrating for real use
 
 **🏆 Free Plan Winner: Grammarly (for everyday writers)**
-Grammarly's free plan has no word limits. However, if you specifically want AI detection, citations, or design elements, QuillBot is the winner.
 
 ---
 
@@ -176,9 +178,11 @@ Grammarly's free plan has no word limits. However, if you specifically want AI d
 | **Premium** | $19.95/mo | ~$8.33/mo | Writers, content creators |
 
 **💰 Pricing Winner: QuillBot — 31% cheaper than Grammarly**
-At ~$8.33/month annually, QuillBot Premium is noticeably more affordable, especially now that it includes an entire creative design workspace. 
 
-> **💡 Smart strategy:** Start with Grammarly free — it's genuinely powerful at $0. If you do heavy content repurposing, need custom blog images, or academic writing, add QuillBot Premium at $8.33/mo.
+At ~$8.33/month annually, QuillBot Premium is noticeably more affordable, especially now that it includes an entire creative design workspace.
+
+![Grammarly vs QuillBot Pricing 2026](/assets/img/posts/grammarly-vs-quillbot-pricing.jpg)
+*Grammarly vs QuillBot pricing side by side — QuillBot wins on cost, Grammarly wins on value-per-feature.*
 
 ---
 
