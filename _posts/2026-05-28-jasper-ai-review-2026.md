@@ -226,6 +226,9 @@ I gave identical prompts to Jasper (with Brand Voice configured) and ChatGPT (wi
 
 ## Pricing: Is Jasper Worth the Cost?
 
+![Jasper AI Pricing Plans](/assets/img/posts/jasper-pricing-2026.jpg)
+*Jasper AI current plans structure for Creator, Pro, and Business tiers in 2026.*
+
 ### Current Jasper Pricing (2026)
 | Plan | Monthly Price | Annual (per mo) | Best For |
 |---|---|---|---|
