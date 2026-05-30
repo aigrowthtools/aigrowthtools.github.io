@@ -27,7 +27,7 @@ SEMrush has grown from a traditional SEO suite into a broader search and visibil
 
 In this review, I have spent 90 days testing every major feature of SEMrush across a real affiliate blog — from the Keyword Magic Tool to the brand-new AI Visibility Toolkit — to give you the most honest, data-driven verdict available in 2026.
 
-The short answer: SEMrush is genuinely the most complete SEO platform on the market. The price is real. The value is also real. But it is not the right tool for everyone — and I will show you exactly who should invest in it today.
+The short answer: SEMrush is genuinely the most complete SEO platform on the market. The price is real. The value is also real. But it is not the right tool for everyone — and I will show you exactly who should invest in it today before you [activate your SEMrush account here](#).
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="#" target="_blank" rel="nofollow sponsored" style="display: inline-block; background-color: #FF642B; color: white; padding: 14px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">🚀 Try SEMrush FREE — 14-Day Full Trial</a>
@@ -63,7 +63,7 @@ SEMrush delivers maximum value for:
 * ✅ Established bloggers in competitive niches — finance, health, tech, travel, software — where keyword selection determines everything
 
 **SEMrush is probably NOT the right fit if you:**
-* ❌ Have fewer than 10 published blog posts — focus on content creation skills first before investing in advanced SEO tools
+* ❌ Have fewer than 10 published blog posts — learn content creation first before investing in advanced SEO tools
 * ❌ Publish once a month or less with no traffic goals
 * ❌ Are working with a budget under $50/month — SE Ranking at $49/month is a better starting point
 * ❌ Run a purely offline business with no organic search ambitions
@@ -93,6 +93,8 @@ The Search Intent filter is the single most valuable feature for affiliate blogg
 Filtering for commercial and transactional intent instantly separates buyer keywords from browser keywords, transforming your content strategy from guesswork into a data-driven system.
 
 In 90 days of testing, I used the Keyword Magic Tool to identify 47 low-competition, high-intent keywords in the web hosting niche — keywords with search volumes between 500 and 8,000 per month that competitors were not fully covering. These became the content calendar for an entire quarter of blogging.
+
+👉 *Tip: You can use the [SEMrush Keyword Magic Tool for free during the 14-day trial period](#).*
 
 ---
 
@@ -148,6 +150,48 @@ What Position Tracking reveals:
 
 In 90 days of testing, Position Tracking revealed 12 keywords on my test blog hovering between positions 8 and 15 — the "almost there" zone where one round of content optimization could jump them to page 1. After updating those posts using Semrush's recommendations, 7 of the 12 moved to page 1 within three weeks.
 
+👉 *Want to track your own keywords? [Set up your tracking project on SEMrush here](#).*
+
+---
+
+### 🤖 Feature 5: AI Visibility Toolkit — The Future of SEO (Brand New 2026)
+This is Semrush's most significant new launch in years — and it is a feature that no other SEO platform currently matches.
+
+The AI Visibility Toolkit tracks brand mentions and citations across ChatGPT, Google AI Overviews and AI Mode, Perplexity, and Gemini. It includes Prompt Monitoring (tracks brand queries across AI assistants), AI Visibility Score (0-100 measurement), and tracking of Mentions, Cited Pages, and Citations.
+
+Why does this matter for bloggers and affiliate marketers in 2026?
+Google's AI Overviews now appear at the top of search results for millions of queries, often reducing clicks to organic results. ChatGPT, Perplexity, and Gemini are being used by hundreds of millions of people to get product recommendations, tool comparisons, and buying advice — exactly the content affiliate bloggers create.
+
+If your blog is being cited in AI-generated answers, you receive traffic and brand authority without traditional clicks. If you are invisible in AI answers, you are losing market share to competitors who have figured out how to appear there.
+
+Semrush is the most feature-complete AEO suite shipped by a legacy SEO vendor, materially ahead of Ahrefs (no comparable product), Moz (no comparable product), and SE Ranking (lighter AEO tracking).
+
+---
+
+### ✍️ Feature 6: Content Marketing Platform — Write and Rank Simultaneously
+Available on the Guru plan and above, the Content Marketing Platform is Semrush's answer to the most frustrating problem in blogging: you can write excellent content that never ranks because it is not optimized correctly.
+
+**SEO Writing Assistant (SWA):** Write inside a real-time editor that scores your content from 0-10 against the top 10 ranking pages for your target keyword. As you write, it recommends:
+* Optimal word count based on what top-ranking pages include
+* Keywords to include and their ideal frequency
+* Heading structure guidance
+* Readability score using Flesch-Kincaid
+* Tone of voice consistency
+* Originality score with plagiarism detection
+
+The SWA integrates directly with Google Docs and WordPress — your content score updates in real-time as you write inside your normal tools, with no switching required.
+
+**Topic Research:** Enter any topic and Semrush generates a map of related sub-topics, headline ideas, questions your audience is asking, and trending content formats — all based on real search data. This is a complete content calendar generator built from what people are actually searching for.
+
+---
+
+### 🔗 Feature 7: Backlink Analytics and Link Building
+Backlinks remain one of Google's most powerful ranking factors. Semrush's backlink suite covers every aspect:
+
+* **Backlink Analytics:** See every backlink pointing to any domain — the linking site's authority, anchor text used, whether links are follow or nofollow, and whether links are new or recently lost.
+* **Backlink Audit:** Identify toxic or low-quality backlinks that could be hurting your rankings, with one-click disavow file generation for Google Search Console submission.
+* **Link Building Tool:** Enter your target keywords and Semrush generates a prioritized list of websites likely to link to content on those topics — with email outreach templates and a built-in CRM to manage your link building campaign end-to-end.
+
 ---
 
 ## SEMrush Pricing: Complete 2026 Breakdown
@@ -186,6 +230,8 @@ Semrush One starts at $199/month — more expensive than classic Pro but cheaper
 Annual billing saves approximately 16-17% compared to monthly:
 * Pro saves: ~$272/year
 * Guru saves: ~$498/year
+
+You can [check the latest promotional discounts directly on their pricing page](#).
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="#" target="_blank" rel="nofollow sponsored" style="display: inline-block; background-color: #FF642B; color: white; padding: 14px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📈 Start SEMrush Free Trial — 14 Days Full Access</a>
@@ -271,7 +317,7 @@ _SEMrush pricing tiers in 2026 — Pro for starters, Guru for serious content op
 | **Affiliate Program** | ✅ $200/sale | ❌ No public program |
 | **Starting Price (Annual)** | $117.33/mo | ~$108/mo |
 
-**Verdict:** For affiliate bloggers and content marketers, Semrush is the stronger choice — the content tools, PPC intelligence, and AI Visibility tracking are features Ahrefs simply does not offer. For pure technical SEO and backlink analysis, Ahrefs has a slight edge. the 14-day free trial versus no trial at all makes Semrush significantly easier to evaluate before buying.
+**Verdict:** For affiliate bloggers and content marketers, Semrush is the stronger choice — the content tools, PPC intelligence, and AI Visibility tracking are features Ahrefs simply does not offer. For pure technical SEO and backlink analysis, Ahrefs has a slight edge. The 14-day free trial versus no trial at all makes Semrush significantly easier to evaluate before buying.
 
 ---
 
