@@ -177,10 +177,6 @@ Both Hostinger and SiteGround carry the official WordPress.org recommendation �
 
 ### Hostinger for WordPress
 * One-click WordPress installation — live in under 2 minutes via hPanel
-
-![Hostinger WordPress Install](/assets/img/posts/hostinger-wordpress-install.jpg)
-_Hostinger setup assistant makes deploying clean WordPress sites very simple for beginners._
-
 * LiteSpeed Cache plugin pre-configured automatically — zero manual optimization required
 * Staging environment available on Business plan and above
 * Automatic WordPress core updates for security
