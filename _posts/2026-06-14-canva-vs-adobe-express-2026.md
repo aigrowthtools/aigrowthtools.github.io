@@ -107,7 +107,7 @@ Canva's Magic Studio includes:
 * **Magic Switch:** Translates text across 100+ languages while preserving design layout.
 * **Magic Eraser:** Remove unwanted objects from photos with one click — no manual selection required.
 
-### Adobe Firefly AI
+### Adobe Express AI
 Adobe Express uses Adobe Firefly — Adobe's proprietary generative AI trained exclusively on licensed Adobe Stock images and public domain content, making it one of the most commercially safe AI image generators available.
 * **Text to Image:** Generate high-quality images from text prompts. Firefly's output is notably strong for photorealistic images, particularly product and architectural photography. Firefly images are commercially safe by design — a significant advantage for brands and businesses with IP concerns.
 * **Generative Fill:** Select an area in any photo and describe what to fill it with — Firefly generates contextually appropriate content that blends seamlessly with the surrounding image. The quality is genuinely impressive and competitive with Adobe Photoshop's Generative Fill feature.
