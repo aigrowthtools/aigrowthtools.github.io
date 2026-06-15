@@ -38,9 +38,6 @@ But the full picture is more nuanced. Let's go through every factor that matters
   <a href="https://www.adobe.com/express" target="_blank" rel="nofollow sponsored" style="display: inline-block; background-color: #FF0000; color: white; padding: 14px 28px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">🔵 Try Adobe Express Free</a>
 </div>
 
-![Canva vs Adobe Express Main Comparison](/assets/img/posts/canva-vs-adobe-express-2026.jpg)
-_Canva vs Adobe Express — the two most popular accessible design platforms tested head-to-head in 2026._
-
 ---
 
 ## At a Glance: Canva vs Adobe Express
