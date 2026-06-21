@@ -352,18 +352,6 @@ The limitations are real — English only, no refund policy, distracting for som
 
 * **Our Rating:** ⭐⭐⭐⭐⭐ (4.8/5)
 
-### 🎯 Final Recommendation by User Type
-
-| Who You Are | Should You Get Grammarly? | Best Plan |
-| :--- | :--- | :--- |
-| 📝 Blogger publishing weekly content | ✅ Absolutely | Pro Annual ($12/mo) |
-| 💼 Professional sending emails daily | ✅ Yes — tone detection alone | Pro Annual |
-| 🎓 Student writing essays and papers | ✅ Yes — free plan first, Pro for plagiarism | Free → Pro |
-| 🌍 Non-native English speaker | ✅ Essential | Pro Annual |
-| 📱 Mobile writer, social media creator | ✅ Yes — best mobile keyboard | Free or Pro |
-| ✍️ Fiction writer | ⚠️ Free plan only | Free |
-| 💰 Tight budget, casual writer | ✅ Free plan is genuinely useful | Free |
-
 <div style="background: #1e293b; border: 2px solid #15C39A; border-radius: 10px; padding: 25px; margin: 30px 0; text-align: center;">
   <h3 style="color: #fff; margin: 0 0 10px 0;">Our Grammarly Rating</h3>
   <div style="font-size: 2.5em; margin: 10px 0;">⭐⭐⭐⭐⭐</div>
